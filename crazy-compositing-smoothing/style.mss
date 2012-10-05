@@ -19,7 +19,9 @@ Map {
     two/line-smooth:55;
     two/line-comp-op:color-burn;
     two/line-clip:false;
-    //line-width:.5;
+    [zoom>=5] {
+      line-width:.5;
+    }
   }
     
   polygon-fill: #fff;

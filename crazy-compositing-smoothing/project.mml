@@ -1,20 +1,20 @@
 {
   "bounds": [
-    -180,
-    -85.0511,
-    180,
-    85.0511
+    -16.1719,
+    -15.9613,
+    55.5469,
+    51.1793
   ],
   "center": [
-    0,
-    0,
-    2
+    23.2031,
+    6.3153,
+    4
   ],
   "format": "png",
   "interactivity": {
-    "layer": "10mpopulatedplacessi",
-    "template_teaser": "{{{SCALERANK}}} {{{NATSCALE}}} {{{LABELRANK}}} {{{FEATURECLA}}} {{{NAME}}} {{{NAMEPAR}}} {{{NAMEALT}}} {{{DIFFASCII}}} {{{NAMEASCII}}} {{{ADM0CAP}}} {{{CAPALT}}} {{{CAPIN}}}",
-    "template_full": "{{{SCALERANK}}} {{{NATSCALE}}} {{{LABELRANK}}} {{{FEATURECLA}}} {{{NAME}}} {{{NAMEPAR}}} {{{NAMEALT}}} {{{DIFFASCII}}} {{{NAMEASCII}}} {{{ADM0CAP}}} {{{CAPALT}}} {{{CAPIN}}}",
+    "layer": "",
+    "template_teaser": "",
+    "template_full": "",
     "fields": [
       "SCALERANK",
       "NATSCALE",
@@ -46,24 +46,6 @@
         "file": "http://mapbox-geodata.s3.amazonaws.com/natural-earth-1.4.0/cultural/10m-admin-0-countries.zip",
         "type": "shape"
       }
-    },
-    {
-      "geometry": "point",
-      "extent": [
-        -179.58997888396897,
-        -81.17908472282718,
-        179.38330358817024,
-        82.48332318035943
-      ],
-      "id": "10mpopulatedplacessi",
-      "class": "",
-      "Datasource": {
-        "file": "http://mapbox-geodata.s3.amazonaws.com/natural-earth-1.4.0/cultural/10m-populated-places-simple.zip"
-      },
-      "srs-name": "autodetect",
-      "srs": "",
-      "advanced": {},
-      "name": "10mpopulatedplacessi"
     }
   ],
   "scale": 1,
