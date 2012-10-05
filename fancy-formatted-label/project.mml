@@ -1,14 +1,14 @@
 {
   "bounds": [
-    -180,
-    -85.05112877980659,
-    180,
-    85.05112877980659
+    -129.375,
+    42.033,
+    -116.7187,
+    52.4828
   ],
   "center": [
-    0,
-    0,
-    2
+    -121.8164,
+    46.6645,
+    5
   ],
   "format": "png",
   "interactivity": false,
@@ -50,5 +50,6 @@
   "scale": 1,
   "metatile": 2,
   "name": "",
-  "description": ""
+  "description": "",
+  "attribution": ""
 }
