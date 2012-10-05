@@ -39,7 +39,7 @@
       "id": "cowlitz",
       "class": "",
       "Datasource": {
-        "file": "http://api.openstreetmap.org/api/0.6/map?bbox=-121.706882,46.813046,-121.702585,46.815594",
+        "file": "http://api.openstreetmap.org/api/0.6/map?bbox=-121.706882,46.813046,-121.702585,46.815594"
       },
       "srs-name": "autodetect",
       "srs": "",
