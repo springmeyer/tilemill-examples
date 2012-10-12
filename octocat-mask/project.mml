@@ -32,15 +32,15 @@
     {
       "geometry": "point",
       "extent": [
-        -122,
-        48.00000000000001,
-        -122,
-        48.00000000000001
+        -122.66300000000001,
+        45.528,
+        -122.66300000000001,
+        45.528
       ],
       "id": "west-coast",
       "class": "",
       "Datasource": {
-        "file": "/Users/dane/data/test.csv"
+        "file": "./layers/pdx.csv"
       },
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
@@ -48,7 +48,7 @@
       "name": "west-coast"
     }
   ],
-  "scale": 1,
+  "scale": 1.8,
   "metatile": 4,
   "name": "",
   "description": "",

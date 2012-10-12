@@ -15,20 +15,7 @@
     "layer": "",
     "template_teaser": "",
     "template_full": "",
-    "fields": [
-      "SCALERANK",
-      "NATSCALE",
-      "LABELRANK",
-      "FEATURECLA",
-      "NAME",
-      "NAMEPAR",
-      "NAMEALT",
-      "DIFFASCII",
-      "NAMEASCII",
-      "ADM0CAP",
-      "CAPALT",
-      "CAPIN"
-    ]
+    "fields": []
   },
   "minzoom": 0,
   "maxzoom": 22,
