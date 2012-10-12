@@ -13,14 +13,15 @@ Map {
 }
 
 #west-coast::in {
-  marker-file: url('https://raw.github.com/gist/1007813/1f883261b243111b00d932d6033a8b538b1ecae7/octocat.svg');
+  marker-file: url('./octocat.svg');
   comp-op:dst-in;
   //marker-opacity:.5;
   //marker-transform:scale(.7,.7);
   image-filters:agg-stack-blur(50,50);
   marker-ignore-placement:true;
   ::over {
-    marker-file: url('https://raw.github.com/gist/1007813/1f883261b243111b00d932d6033a8b538b1ecae7/octocat.svg');
+    marker-file: url('./octocat.svg');
+    //marker-file: url('https://raw.github.com/gist/1007813/1f883261b243111b00d932d6033a8b538b1ecae7/octocat.svg');
     marker-opacity:.8;
     marker-comp-op:difference;
   }
