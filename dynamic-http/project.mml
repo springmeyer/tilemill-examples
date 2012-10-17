@@ -27,14 +27,23 @@
       "Datasource": {
         "file": "http://mapbox-geodata.s3.amazonaws.com/natural-earth-1.4.0/cultural/10m-admin-0-countries.zip",
         "type": "shape"
-      }
+      },
+      "extent": [
+        -179.99978348919961,
+        -85.051,
+        180,
+        83.63381093402975
+      ],
+      "class": "",
+      "srs-name": "900913",
+      "advanced": {}
     },
     {
       "geometry": "point",
       "extent": [
-        -129,
+        -130,
         40,
-        -117,
+        -116.00000000000001,
         45
       ],
       "id": "dynamic",
