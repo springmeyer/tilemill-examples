@@ -1,5 +1,7 @@
+@ocean: #b8dee6;
+
 Map {
-  background-color: #b8dee6;
+  background-color: @ocean;
 }
 
 #countries {
@@ -30,6 +32,8 @@ Map {
   two/text-fill:darken(@line_color,20%);
   two/text-face-name:"DejaVu Sans Book";
   two/text-size:17;
+  two/text-halo-radius:1.5;
+  two/text-halo-fill:rgba(255,255,255,.5);
   two/text-clip:false;
   two/text-name:[name];
   two/text-placement:line;
