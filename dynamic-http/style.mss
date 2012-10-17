@@ -14,18 +14,11 @@ Map {
 #dynamic {
   marker-fill:teal;
   marker-line-color:darken(teal,10%);
-  marker-width:25;
-  marker-line-width:10;
+  marker-width:[size];
+  marker-line-width:2;
   marker-opacity:.5;
   marker-allow-overlap:true;
 }
-
-
-
-
-
-
-
 
 
 
