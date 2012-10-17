@@ -28,7 +28,7 @@
         180,
         83.63381093402975
       ],
-      "id": "tint-bands",
+      "id": "countries",
       "class": "",
       "Datasource": {
         "file": "http://mapbox-geodata.s3.amazonaws.com/natural-earth-1.4.0/cultural/10m-admin-0-countries.zip"
@@ -36,25 +36,7 @@
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "tint-bands"
-    },
-    {
-      "geometry": "polygon",
-      "extent": [
-        -179.99978348919961,
-        -85.051,
-        180,
-        83.63381093402975
-      ],
-      "id": "country",
-      "class": "",
-      "Datasource": {
-        "file": "http://mapbox-geodata.s3.amazonaws.com/natural-earth-1.4.0/cultural/10m-admin-0-countries.zip"
-      },
-      "srs-name": "autodetect",
-      "srs": "",
-      "advanced": {},
-      "name": "country"
+      "name": "countries"
     }
   ],
   "scale": 1,

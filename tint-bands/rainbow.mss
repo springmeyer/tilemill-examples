@@ -24,7 +24,7 @@ rate I want a smaller palette :)
 
 /* Coastlines */
 
-#country::land-glow-inner[zoom>=0] { 
+#countries::land-glow-inner[zoom>=0] { 
   line-color:@line;
   line-opacity:0.5;
   line-join:round;
@@ -34,14 +34,14 @@ rate I want a smaller palette :)
   [zoom>2] { line-width:2.4; }
 }
 
-#country::land-glow-outer[zoom>1] { 
+#countries::land-glow-outer[zoom>1] { 
   line-color:@line;
   line-width:5;
   line-opacity:0.1;
   line-join:round;
 }
 
-#country::fill[zoom>=0] {
+#countries::fill[zoom>=0] {
   polygon-comp-op: hard-light;
   [ADM0_A3='ABW'] { polygon-fill:@purple; }
   [ADM0_A3='AFG'] { polygon-fill:@red; }

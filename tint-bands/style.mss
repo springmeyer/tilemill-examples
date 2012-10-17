@@ -2,8 +2,8 @@
 
 Map { background-color: @water; }
 
-#tint-bands {
-  image-filters: agg-stack-blur(1,1);
+#countries::tint-bands {
+  image-filters: agg-stack-blur(3,3);
   opacity: 0.3;
   line-join: round;
   [zoom=2] { line-width: 3; }
@@ -13,4 +13,3 @@ Map { background-color: @water; }
   [zoom=6] { line-width: 17; }
   [zoom>6] { line-width: 23; }
 }
-
