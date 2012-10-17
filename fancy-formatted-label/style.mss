@@ -1,20 +1,34 @@
-Map {
-  background-color: #b8dee6;
-}
+@steel:steelblue;
+@format1: "<Format fill='darkblue' face-name='DejaVu Sans Bold Oblique'>";
+@format2: @format1+"[name]</Format>";
+@label: @format2+"+'\n'+[m]+' m'+'\n'+[ft]+' ft'";
 
-#countries {
-  ::outline {
-    line-color: #85c5d3;
-    line-width: 2;
-    line-join: round;
+#rainier {
+  marker-width:8;
+  marker-fill:black;
+  marker-line-width:0;
+  [zoom >= 10] {
+    text-face-name:'DejaVu Sans Book';
+    text-size:15;
+    text-name:@label;
+    text-fill:darken(grey,10%);
+    text-dx:15;
   }
-  polygon-fill: #fff;
 }
 
-#cowlitz {
-  marker-width:10;
-  text-face-name:'DejaVu Sans Book';
-  text-size:15;
-  text-name:"<Format fill='blue' face-name='DejaVu Sans Oblique'>[name]</Format>+'\n'+[ele]+'m'";
-  text-dx:10;
+@smooth:.5;
+#glaciers {
+  ::outline {
+    line-color: lighten(@steel,30%);
+    line-width: 4;
+    line-opacity:.3;
+    line-join: round;
+    line-smooth:@smooth;
+  }
+  polygon-fill:@steel;
+  polygon-opacity:.3;
+  polygon-smooth:@smooth;
 }
+
+
+

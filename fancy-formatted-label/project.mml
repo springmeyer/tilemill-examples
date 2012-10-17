@@ -1,14 +1,14 @@
 {
   "bounds": [
-    -129.375,
-    42.033,
-    -116.7187,
-    52.4828
+    -121.8571,
+    46.7978,
+    -121.6476,
+    46.9183
   ],
   "center": [
-    -121.8164,
-    46.6645,
-    5
+    -121.7575,
+    46.8559,
+    12
   ],
   "format": "png",
   "interactivity": false,
@@ -31,20 +31,38 @@
     },
     {
       "extent": [
-        -121.70453799999999,
-        46.8145534,
-        -121.70453799999999,
-        46.8145534
+        -121.8460041,
+        46.8005151,
+        -121.6624146,
+        46.908475
       ],
-      "id": "cowlitz",
+      "id": "glaciers",
       "class": "",
       "Datasource": {
-        "file": "http://api.openstreetmap.org/api/0.6/map?bbox=-121.706882,46.813046,-121.702585,46.815594"
+        "file": "osm.csv"
       },
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "cowlitz"
+      "name": "glaciers"
+    },
+    {
+      "extent": [
+        -121.7555,
+        46.8561,
+        -121.7555,
+        46.8561
+      ],
+      "id": "rainier",
+      "class": "",
+      "Datasource": {
+        "file": "layers/rainier.csv"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "rainier",
+      "geometry": "point"
     }
   ],
   "scale": 1,
