@@ -1,6 +1,6 @@
 Map {
   background-color: #b8dee6;
-  background-image:url(http://tileabl.es/-/wp-content/uploads/2011/02/Paper-3.png);
+  background-image:url("paper.png");
 }
 
 #countries {
@@ -23,10 +23,11 @@ Map {
       line-width:.5;
     }
   }
-    
   polygon-fill: #fff;
   polygon-gamma:.4;
-  comp-op:difference; //grain-extract
+  comp-op:difference;
 }
+
+
 
 
