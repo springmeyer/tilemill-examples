@@ -40,7 +40,7 @@
       "id": "places",
       "class": "",
       "Datasource": {
-        "file": "http://mapbox-geodata.s3.amazonaws.com/natural-earth-1.4.0/cultural/10m-populated-places-simple.zip"
+        "file": "./layers/10m-populated-places-simple.zip"
       },
       "srs-name": "autodetect",
       "srs": "",
