@@ -12,6 +12,11 @@ Map {
 }
 
 /*
+- imported like:
+
+createdb -T template_postgis states
+shp2pgsql -s 4326 -g geom ./data/us_states_wgs84.shp states | psql states
+
 - only render multigeometries
 (select * from states
 where ST_NumGeometries(geom) > 1
