@@ -17,6 +17,4 @@ Or you can use git to set the projects up within an existing documents directory
 
 ## speakers notes
 
-Designing Fast and Beautiful Web Maps with TileMill MapBox
-Dane Springmeyer, Development Seed
-TileMill, an open source design studio, lets you design fast and beautiful interactive maps using your own data and share them on the web and mobile devices. This session will walk through how to use TileMill to take a spreadsheet of data and a shapefile and turn it into an interactive web map that can quickly be shared online. We'll show how you can use TileMill to make all sorts of maps from proportional symbol (http://nigeria.mixmarket.org/) to choropleth (http://www.npr.org/censusmap) to full featured street-level base maps (http://mapbox.com/maps/).
+Some project directories contain setup scripts (e.g. `convert.py`) and other notes (e.g. `notes.md`)
