@@ -1,3 +1,4 @@
+@smooth:.5;
 @steel:steelblue;
 @format1: "<Format fill='darkblue' face-name='DejaVu Sans Bold Oblique'>";
 @format2: @format1+"[name]</Format>";
@@ -16,7 +17,6 @@
   }
 }
 
-@smooth:.5;
 #glaciers {
   ::outline {
     line-color: lighten(@steel,30%);

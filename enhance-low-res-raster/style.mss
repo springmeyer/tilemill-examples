@@ -13,8 +13,3 @@ Map {
   raster-opacity:1;
   raster-scaling:bilinear;
 }
-
-
-
-
-
