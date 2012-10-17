@@ -1,0 +1,35 @@
+
+<!-- example of putting TileMill layer on top of remote layer
+     learn more: http://mapbox.com/mapbox.js/examples/ -->
+
+<!DOCTYPE html>
+<html>
+<head>
+  <script src='http://api.tiles.mapbox.com/mapbox.js/v0.6.6/mapbox.js'></script>
+  <link href='http://api.tiles.mapbox.com/mapbox.js/v0.6.6/mapbox.css' rel='stylesheet' />
+  <style>
+    body { margin:0; padding:0; }
+    #map { position:absolute; top:0; bottom:0; width:100%; }
+  </style>
+</head>
+<body>
+<div id='map'></div>
+<script>
+  var mapbox_streets = 'examples.map-4l7djmvo';
+  var no_streets = 'springmeyer.map-m37u7tfj';
+  mapbox.load([no_streets], function(data) {
+      var map = mapbox.map('map');
+      map.ui.zoomer.add();
+      map.ui.zoombox.add();
+      map.addLayer(data[0].layer);
+      var tilemill_layer = mapbox.layer().url('http://localhost:20009/api/Project/maki-icons');
+      // NOTE: the composite.false is critical to avoid silent errors with tilemill layers
+      tilemill_layer.composite(false);
+      map.addLayer(tilemill_layer);
+      map.zoom(15);
+      map.center({ lat: 45.528, lon: -122.663});
+  });
+</script>
+</body>
+</html>
+

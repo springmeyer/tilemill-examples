@@ -1,0 +1,1023 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2012-10-17T00:08:02Z"/>
+
+  <node id="279966414" lat="45.5355807" lon="-122.6644221">
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="name" v="The Well Community Church"/>
+    <tag k="religion" v="christian"/>
+  </node>
+  <node id="323588268" lat="45.5252338" lon="-122.6813914">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="ice_cream"/>
+    <tag k="name" v="Ben &amp; Jerry's"/>
+  </node>
+  <node id="323588269" lat="45.5230449" lon="-122.6824300">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="cuisine" v="mexican"/>
+    <tag k="name" v="Baja Fresh"/>
+  </node>
+  <node id="323588279" lat="45.5206615" lon="-122.6812633">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="regional"/>
+    <tag k="name" v="Outdoor food court"/>
+    <tag k="shop" v="outdoor"/>
+  </node>
+  <node id="323588284" lat="45.5230750" lon="-122.6829364">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="cuisine" v="regional"/>
+    <tag k="name" v="Henry's"/>
+  </node>
+  <node id="323588295" lat="45.5231892" lon="-122.6819836">
+    <tag k="amenity" v="parking"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="fee" v="yes"/>
+    <tag k="name" v="Powell's Parking"/>
+    <tag k="parking" v="multi-storey"/>
+  </node>
+  <node id="323588302" lat="45.5263763" lon="-122.6820781">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="name" v="Pizza Schmizza"/>
+  </node>
+  <node id="323588303" lat="45.5228714" lon="-122.6787628">
+    <tag k="amenity" v="toilets"/>
+    <tag k="fee" v="no"/>
+    <tag k="name" v="Public Restroom"/>
+  </node>
+  <node id="323588344" lat="45.5263853" lon="-122.6831076">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="323588346" lat="45.5242837" lon="-122.6809708">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="cuisine" v="japanese"/>
+    <tag k="name" v="Sushi Land"/>
+  </node>
+  <node id="324193667" lat="45.5352911" lon="-122.6601222">
+    <tag k="amenity" v="fuel"/>
+    <tag k="name" v="Shell"/>
+  </node>
+  <node id="324193668" lat="45.5299043" lon="-122.6819431">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="324193674" lat="45.5298849" lon="-122.6842980">
+    <tag k="amenity" v="bank"/>
+    <tag k="name" v="Bank of America"/>
+  </node>
+  <node id="324193683" lat="45.5299176" lon="-122.6855575">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="deli"/>
+    <tag k="name" v="Quiznos"/>
+  </node>
+  <node id="324193697" lat="45.5302369" lon="-122.6805393">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="deli"/>
+    <tag k="name" v="Subway"/>
+  </node>
+  <node id="324193701" lat="45.5348691" lon="-122.6610914">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="324193705" lat="45.5352771" lon="-122.6661573">
+    <tag k="amenity" v="fuel"/>
+    <tag k="name" v="Shell"/>
+  </node>
+  <node id="324193715" lat="45.5297364" lon="-122.6819200">
+    <tag k="amenity" v="bank"/>
+    <tag k="name" v="US Bank"/>
+  </node>
+  <node id="354922682" lat="45.5214979" lon="-122.6786187">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="El Gaucho"/>
+  </node>
+  <node id="354923287" lat="45.5207535" lon="-122.6784981">
+    <tag k="amenity" v="parking"/>
+    <tag k="fee" v="yes"/>
+    <tag k="parking" v="multi-storey"/>
+  </node>
+  <node id="355041404" lat="45.5228257" lon="-122.6748776">
+    <tag k="amenity" v="fuel"/>
+    <tag k="name" v="76"/>
+    <tag k="operator" v="76"/>
+  </node>
+  <node id="355041455" lat="45.5228973" lon="-122.6736968">
+    <tag k="amenity" v="pub"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="name" v="Limbo Lounge"/>
+  </node>
+  <node id="355041566" lat="45.5204657" lon="-122.6793284">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Hunan"/>
+  </node>
+  <node id="355219141" lat="45.5216753" lon="-122.6724038">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Kell's Irish Pub"/>
+  </node>
+  <node id="355219145" lat="45.5222514" lon="-122.6724542">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Saint Patrick's Pub"/>
+  </node>
+  <node id="355219147" lat="45.5223282" lon="-122.6729846">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Ash Street Saloon"/>
+  </node>
+  <node id="355219208" lat="45.5221489" lon="-122.6732003">
+    <tag k="amenity" v="telephone"/>
+  </node>
+  <node id="355846370" lat="45.5226348" lon="-122.6731380">
+    <tag k="amenity" v="cafe"/>
+    <tag k="comment" v="Home of the world famous and FDA-banned Nyquil Donut"/>
+    <tag k="name" v="Voodoo Donut"/>
+  </node>
+  <node id="357000731" lat="45.5247853" lon="-122.6705764">
+    <tag k="amenity" v="police"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+  </node>
+  <node id="357000733" lat="45.5264614" lon="-122.6785072">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Park Kitchen"/>
+  </node>
+  <node id="357328903" lat="45.5202813" lon="-122.6539862">
+    <tag k="addr:state" v="OR"/>
+    <tag k="amenity" v="school"/>
+    <tag k="ele" v="29"/>
+    <tag k="gnis:county_id" v="051"/>
+    <tag k="gnis:created" v="05/22/1986"/>
+    <tag k="gnis:edited" v="06/26/2008"/>
+    <tag k="gnis:feature_id" v="1161984"/>
+    <tag k="name" v="International Learning Program"/>
+  </node>
+  <node id="357358051" lat="45.5238889" lon="-122.6794444">
+    <tag k="addr:state" v="OR"/>
+    <tag k="amenity" v="school"/>
+    <tag k="ele" v="13"/>
+    <tag k="gnis:county_id" v="051"/>
+    <tag k="gnis:created" v="08/05/2008"/>
+    <tag k="gnis:feature_id" v="2434965"/>
+    <tag k="name" v="Emerson School"/>
+  </node>
+  <node id="357358251" lat="45.5391667" lon="-122.6675000">
+    <tag k="addr:state" v="OR"/>
+    <tag k="amenity" v="school"/>
+    <tag k="ele" v="45"/>
+    <tag k="gnis:county_id" v="051"/>
+    <tag k="gnis:created" v="08/05/2008"/>
+    <tag k="gnis:feature_id" v="2435005"/>
+    <tag k="name" v="Trillium Charter School"/>
+  </node>
+  <node id="357360689" lat="45.5231721" lon="-122.6759904">
+    <tag k="addr:state" v="OR"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="ele" v="12"/>
+    <tag k="gnis:county_id" v="051"/>
+    <tag k="gnis:created" v="07/16/2008"/>
+    <tag k="gnis:feature_id" v="2473823"/>
+    <tag k="name" v="Downtown Chapel of Saint Vincent de Paul Parish Church"/>
+    <tag k="religion" v="christian"/>
+  </node>
+  <node id="357360875" lat="45.5211094" lon="-122.6842387">
+    <tag k="addr:state" v="OR"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="denomination" v="presbyterian"/>
+    <tag k="ele" v="26"/>
+    <tag k="gnis:county_id" v="051"/>
+    <tag k="gnis:created" v="07/16/2008"/>
+    <tag k="gnis:feature_id" v="2473885"/>
+    <tag k="name" v="First Presbyterian Church"/>
+    <tag k="religion" v="christian"/>
+  </node>
+  <node id="357361624" lat="45.5233915" lon="-122.6716486">
+    <tag k="addr:state" v="OR"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="ele" v="9"/>
+    <tag k="gnis:county_id" v="051"/>
+    <tag k="gnis:created" v="07/16/2008"/>
+    <tag k="gnis:feature_id" v="2474223"/>
+    <tag k="name" v="Portland Rescue Mission"/>
+    <tag k="religion" v="christian"/>
+  </node>
+  <node id="357361802" lat="45.5327419" lon="-122.6629090">
+    <tag k="addr:state" v="OR"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="denomination" v="catholic"/>
+    <tag k="ele" v="39"/>
+    <tag k="gnis:county_id" v="051"/>
+    <tag k="gnis:created" v="07/16/2008"/>
+    <tag k="gnis:feature_id" v="2474258"/>
+    <tag k="name" v="Rosary Center"/>
+    <tag k="religion" v="christian"/>
+  </node>
+  <node id="357361901" lat="45.5205759" lon="-122.6541837">
+    <tag k="addr:state" v="OR"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="denomination" v="catholic"/>
+    <tag k="ele" v="29"/>
+    <tag k="gnis:county_id" v="051"/>
+    <tag k="gnis:created" v="07/16/2008"/>
+    <tag k="gnis:feature_id" v="2474364"/>
+    <tag k="name" v="Saint Francis of Assisi Catholic Church"/>
+    <tag k="religion" v="christian"/>
+  </node>
+  <node id="357362251" lat="45.5326630" lon="-122.6590212">
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="denomination" v="baptist"/>
+    <tag k="ele" v="41"/>
+    <tag k="name" v="Temple Baptist Church"/>
+    <tag k="religion" v="christian"/>
+  </node>
+  <node id="357362470" lat="45.5232923" lon="-122.6730979">
+    <tag k="addr:state" v="OR"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="ele" v="11"/>
+    <tag k="gnis:county_id" v="051"/>
+    <tag k="gnis:created" v="07/16/2008"/>
+    <tag k="gnis:feature_id" v="2474510"/>
+    <tag k="name" v="Union Gospel Mission Lifechange Center"/>
+    <tag k="religion" v="christian"/>
+  </node>
+  <node id="357362544" lat="45.5365550" lon="-122.6623497">
+    <tag k="addr:state" v="OR"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="ele" v="43"/>
+    <tag k="gnis:county_id" v="051"/>
+    <tag k="gnis:created" v="07/16/2008"/>
+    <tag k="gnis:feature_id" v="2474533"/>
+    <tag k="name" v="Victory Temple Church of God in Christ"/>
+    <tag k="religion" v="christian"/>
+  </node>
+  <node id="357363075" lat="45.5329803" lon="-122.6617443">
+    <tag k="addr:state" v="OR"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="ele" v="41"/>
+    <tag k="gnis:county_id" v="051"/>
+    <tag k="gnis:created" v="07/16/2008"/>
+    <tag k="gnis:feature_id" v="2474722"/>
+    <tag k="name" v="Holy Rosary Church"/>
+    <tag k="religion" v="christian"/>
+  </node>
+  <node id="357363396" lat="45.5393595" lon="-122.6671601">
+    <tag k="addr:state" v="OR"/>
+    <tag k="amenity" v="school"/>
+    <tag k="ele" v="46"/>
+    <tag k="gnis:county_id" v="051"/>
+    <tag k="gnis:created" v="07/16/2008"/>
+    <tag k="gnis:feature_id" v="2474818"/>
+    <tag k="name" v="Trillium School"/>
+  </node>
+  <node id="365796249" lat="45.5206480" lon="-122.6837887">
+    <tag k="addr:state" v="OR"/>
+    <tag k="amenity" v="kindergarten"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="ele" v="29"/>
+    <tag k="gnis:county_name" v="Multnomah"/>
+    <tag k="gnis:feature_id" v="2473976"/>
+    <tag k="name" v="Kindercorner Indoor Play Park"/>
+  </node>
+  <node id="365796388" lat="45.5282151" lon="-122.6578868">
+    <tag k="addr:city" v="Portland"/>
+    <tag k="addr:country" v="US"/>
+    <tag k="addr:housenumber" v="800"/>
+    <tag k="addr:postcode" v="97232"/>
+    <tag k="addr:state" v="OR"/>
+    <tag k="addr:street" v="Northeast Oregon Street"/>
+    <tag k="amenity" v="public_building"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="ele" v="36"/>
+    <tag k="gnis:county_name" v="Multnomah"/>
+    <tag k="gnis:feature_id" v="2474006"/>
+    <tag k="name" v="Oregon State Office Building"/>
+    <tag k="source" v="Pushpin for iOS"/>
+  </node>
+  <node id="365796392" lat="45.5209813" lon="-122.6836140">
+    <tag k="addr:state" v="OR"/>
+    <tag k="amenity" v="public_building"/>
+    <tag k="ele" v="26"/>
+    <tag k="gnis:county_name" v="Multnomah"/>
+    <tag k="gnis:feature_id" v="2473932"/>
+    <tag k="name" v="Alder Street Child Development Center"/>
+  </node>
+  <node id="420039185" lat="45.5360122" lon="-122.6572534">
+    <tag k="amenity" v="post_office"/>
+    <tag k="name" v="US Postal Service"/>
+  </node>
+  <node id="427150714" lat="45.5258970" lon="-122.6850844">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Rogue"/>
+  </node>
+  <node id="427828009" lat="45.5348688" lon="-122.6597958">
+    <tag k="amenity" v="atm"/>
+    <tag k="operator" v="Wells Fargo"/>
+  </node>
+  <node id="427831991" lat="45.5341017" lon="-122.6625510">
+    <tag k="amenity" v="atm"/>
+    <tag k="operator" v="Citibank"/>
+  </node>
+  <node id="470103084" lat="45.5317616" lon="-122.6560900">
+    <tag k="amenity" v="fountain"/>
+  </node>
+  <node id="471786258" lat="45.5346170" lon="-122.6579311">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="mexican"/>
+    <tag k="name" v="Taco Bell"/>
+  </node>
+  <node id="471786260" lat="45.5345088" lon="-122.6583431">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="mexican"/>
+    <tag k="name" v="Muchas Gracias"/>
+  </node>
+  <node id="471787007" lat="45.5341180" lon="-122.6583603">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="mexican"/>
+    <tag k="name" v="Chipotle"/>
+  </node>
+  <node id="471787257" lat="45.5339857" lon="-122.6588924">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="Burger King"/>
+  </node>
+  <node id="471787274" lat="45.5340638" lon="-122.6604116">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="McDonald's"/>
+  </node>
+  <node id="471787407" lat="45.5339737" lon="-122.6611927">
+    <tag k="amenity" v="car_wash"/>
+    <tag k="name" v="Washman"/>
+  </node>
+  <node id="471787408" lat="45.5339075" lon="-122.6619308">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+  </node>
+  <node id="471787890" lat="45.5333544" lon="-122.6611326">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="Wendy's"/>
+  </node>
+  <node id="471792597" lat="45.5319446" lon="-122.6641275">
+    <tag k="amenity" v="hospital"/>
+    <tag k="name" v="Legacy Research Center"/>
+  </node>
+  <node id="471792598" lat="45.5313494" lon="-122.6640502">
+    <tag k="amenity" v="hospital"/>
+    <tag k="name" v="Oregon State Hospital"/>
+  </node>
+  <node id="471796198" lat="45.5348250" lon="-122.6601278">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="name" v="Walgreens"/>
+  </node>
+  <node id="471843445" lat="45.5324784" lon="-122.6622163">
+    <tag k="amenity" v="arts_centre"/>
+    <tag k="name" v="Ambridge Event Center"/>
+  </node>
+  <node id="472581133" lat="45.5345695" lon="-122.6569032">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="regional"/>
+    <tag k="disused" v="yes"/>
+    <tag k="name" v="BJ's"/>
+  </node>
+  <node id="472581313" lat="45.5346838" lon="-122.6558475">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Village Inn Pancake House"/>
+  </node>
+  <node id="474185561" lat="45.5309668" lon="-122.6619874">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="Burgerville"/>
+    <tag k="website" v="http://www.burgerville.com"/>
+  </node>
+  <node id="476310278" lat="45.5261325" lon="-122.6524424">
+    <tag k="amenity" v="fountain"/>
+    <tag k="drinkable" v="yes"/>
+  </node>
+  <node id="479562225" lat="45.5273578" lon="-122.6796370">
+    <tag k="amenity" v="post_box"/>
+    <tag k="operator" v="United States Postal Service"/>
+  </node>
+  <node id="480521790" lat="45.5390972" lon="-122.6584619">
+    <tag k="amenity" v="telephone"/>
+  </node>
+  <node id="483745116" lat="45.5312586" lon="-122.6610309">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="american"/>
+    <tag k="name" v="Red Robin"/>
+    <tag k="website" v="http://www.redrobin.com"/>
+  </node>
+  <node id="506857527" lat="45.5263184" lon="-122.6845479">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="andina"/>
+  </node>
+  <node id="506857528" lat="45.5268596" lon="-122.6845565">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Barista"/>
+  </node>
+  <node id="506857529" lat="45.5274128" lon="-122.6845308">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Paragon"/>
+  </node>
+  <node id="506857532" lat="45.5238650" lon="-122.6829257">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="PF Changs"/>
+  </node>
+  <node id="506857533" lat="45.5248982" lon="-122.6839612">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="PICA"/>
+  </node>
+  <node id="506857534" lat="45.5255788" lon="-122.6844621">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="50 plates"/>
+  </node>
+  <node id="519441125" lat="45.5287978" lon="-122.6825422">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Cool Moon Ice Cream"/>
+  </node>
+  <node id="519443396" lat="45.5294292" lon="-122.6855462">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Urban Grind Coffee"/>
+  </node>
+  <node id="544598101" lat="45.5250511" lon="-122.6785854">
+    <tag k="amenity" v="parking"/>
+  </node>
+  <node id="545064342" lat="45.5251150" lon="-122.6774016">
+    <tag k="amenity" v="post_box"/>
+  </node>
+  <node id="549566160" lat="45.5242929" lon="-122.6850010">
+    <tag k="amenity" v="post_box"/>
+    <tag k="operator" v="United States Postal Service"/>
+  </node>
+  <node id="567251148" lat="45.5214062" lon="-122.6812260">
+    <tag k="amenity" v="post_box"/>
+    <tag k="operator" v="United States Postal Service"/>
+  </node>
+  <node id="568913332" lat="45.5285269" lon="-122.6852526">
+    <tag k="amenity" v="post_box"/>
+    <tag k="operator" v="FedEx"/>
+  </node>
+  <node id="568913521" lat="45.5284488" lon="-122.6852440">
+    <tag k="amenity" v="post_box"/>
+    <tag k="operator" v="United States Postal Service"/>
+  </node>
+  <node id="568914984" lat="45.5219184" lon="-122.6780690">
+    <tag k="amenity" v="post_box"/>
+    <tag k="operator" v="United States Postal Service"/>
+  </node>
+  <node id="575276209" lat="45.5265011" lon="-122.6756892">
+    <tag k="amenity" v="telephone"/>
+  </node>
+  <node id="575422966" lat="45.5288483" lon="-122.6769720">
+    <tag k="amenity" v="post_box"/>
+    <tag k="operator" v="United States Postal Service"/>
+  </node>
+  <node id="580219227" lat="45.5267080" lon="-122.6759815">
+    <tag k="amenity" v="toilets"/>
+    <tag k="description" v="Public bathroom."/>
+    <tag k="name" v="Portland Loo"/>
+    <tag k="tourism" v="artwork"/>
+  </node>
+  <node id="590755702" lat="45.5272970" lon="-122.6833120">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Fuego Burrito Cart"/>
+  </node>
+  <node id="593034295" lat="45.5287873" lon="-122.6860944">
+    <tag k="amenity" v="parking"/>
+    <tag k="name" v="REI"/>
+  </node>
+  <node id="596932545" lat="45.5265979" lon="-122.6851160">
+    <tag k="amenity" v="post_box"/>
+    <tag k="operator" v="United States Postal Service"/>
+  </node>
+  <node id="603461808" lat="45.5219199" lon="-122.6783342">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="612015193" lat="45.5351640" lon="-122.6583378">
+    <tag k="amenity" v="telephone"/>
+  </node>
+  <node id="615090786" lat="45.5313423" lon="-122.6853769">
+    <tag k="amenity" v="post_box"/>
+    <tag k="operator" v="United States Postal Service"/>
+  </node>
+  <node id="621110758" lat="45.5253780" lon="-122.6792180">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="description" v="Thai"/>
+    <tag k="name" v="PeemKaw"/>
+  </node>
+  <node id="622837671" lat="45.5259118" lon="-122.6820454">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Boyd's Coffee"/>
+  </node>
+  <node id="622837672" lat="45.5264530" lon="-122.6810316">
+    <tag k="amenity" v="bank"/>
+    <tag k="atm" v="yes"/>
+    <tag k="operator" v="Albina Community Bank"/>
+  </node>
+  <node id="632028018" lat="45.5210568" lon="-122.6805190">
+    <tag k="amenity" v="post_box"/>
+    <tag k="operator" v="United States Postal Service"/>
+  </node>
+  <node id="632028021" lat="45.5224212" lon="-122.6780680">
+    <tag k="amenity" v="telephone"/>
+  </node>
+  <node id="632186067" lat="45.5212230" lon="-122.6726487">
+    <tag k="amenity" v="post_box"/>
+    <tag k="name" v="USPS"/>
+    <tag k="operator" v="USPS"/>
+  </node>
+  <node id="635573907" lat="45.5206020" lon="-122.6790270">
+    <tag k="amenity" v="post_box"/>
+    <tag k="operator" v="United States Postal Service"/>
+  </node>
+  <node id="635573908" lat="45.5212372" lon="-122.6812916">
+    <tag k="amenity" v="telephone"/>
+  </node>
+  <node id="661311316" lat="45.5269877" lon="-122.6830634">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="The Cultural Pearl"/>
+  </node>
+  <node id="661311318" lat="45.5271042" lon="-122.6838849">
+    <tag k="addr:housenumber" v="1230"/>
+    <tag k="addr:street" v="Hoyt Street"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="italian"/>
+    <tag k="name" v="Fratelli"/>
+    <tag k="phone" v="+15032418800"/>
+  </node>
+  <node id="661311320" lat="45.5270366" lon="-122.6834865">
+    <tag k="addr:housenumber" v="1210"/>
+    <tag k="addr:street" v="Hoyt Street"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="cuisine" v="latino"/>
+    <tag k="name" v="Oba!"/>
+  </node>
+  <node id="661811846" lat="45.5352309" lon="-122.6574015">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="ethiopian"/>
+    <tag k="name" v="Mudai"/>
+  </node>
+  <node id="661827309" lat="45.5243548" lon="-122.6792470">
+    <tag k="amenity" v="post_box"/>
+    <tag k="operator" v="United States Postal Service"/>
+  </node>
+  <node id="661827310" lat="45.5240842" lon="-122.6788901">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="663556157" lat="45.5203489" lon="-122.6854140">
+    <tag k="amenity" v="post_box"/>
+    <tag k="operator" v="United States Postal Service"/>
+  </node>
+  <node id="663564110" lat="45.5228287" lon="-122.6836538">
+    <tag k="amenity" v="pub"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="note" v="TODO (a very nice place)"/>
+  </node>
+  <node id="663564111" lat="45.5231091" lon="-122.6818054">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="World Cafe"/>
+  </node>
+  <node id="663564114" lat="45.5237587" lon="-122.6810410">
+    <tag k="amenity" v="post_box"/>
+    <tag k="operator" v="United States Postal Service"/>
+  </node>
+  <node id="663797607" lat="45.5245394" lon="-122.6839654">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Babette"/>
+  </node>
+  <node id="663797613" lat="45.5247778" lon="-122.6839762">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Blue Hour"/>
+  </node>
+  <node id="663797616" lat="45.5252247" lon="-122.6829263">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Everett Street Bistro"/>
+  </node>
+  <node id="663797625" lat="45.5236039" lon="-122.6777017">
+    <tag k="amenity" v="arts_centre"/>
+    <tag k="name" v="Augen Gallery"/>
+    <tag k="note" v="TODO"/>
+  </node>
+  <node id="663797629" lat="45.5236380" lon="-122.6762470">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Casey's"/>
+    <tag k="note" v="TODO"/>
+  </node>
+  <node id="663797630" lat="45.5234524" lon="-122.6762470">
+    <tag k="amenity" v="bar"/>
+    <tag k="note" v="TODO"/>
+  </node>
+  <node id="664314253" lat="45.5206039" lon="-122.6779914">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Starbucks"/>
+    <tag k="operator" v="Starbucks"/>
+  </node>
+  <node id="664314254" lat="45.5214911" lon="-122.6774973">
+    <tag k="amenity" v="bank"/>
+    <tag k="name" v="Iron Stone Bank"/>
+  </node>
+  <node id="664314255" lat="45.5212971" lon="-122.6776844">
+    <tag k="amenity" v="bank"/>
+    <tag k="name" v="United States National Bank"/>
+  </node>
+  <node id="664314256" lat="45.5207973" lon="-122.6773119">
+    <tag k="addr:housenumber" v="400"/>
+    <tag k="addr:street" v="Southwest 6th Avenue"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="400Café"/>
+    <tag k="phone" v="+15032224272"/>
+  </node>
+  <node id="664314258" lat="45.5213495" lon="-122.6769660">
+    <tag k="addr:housenumber" v="300"/>
+    <tag k="addr:postcode" v="97204"/>
+    <tag k="addr:street" v="Southwest 6th Avenue"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="The Original: A Dinerant"/>
+    <tag k="phone" v="+15035462666"/>
+  </node>
+  <node id="664314262" lat="45.5223447" lon="-122.6770361">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Café Vélo"/>
+  </node>
+  <node id="664314269" lat="45.5225872" lon="-122.6764896">
+    <tag k="amenity" v="bicycle_parking"/>
+  </node>
+  <node id="664314272" lat="45.5241805" lon="-122.6766801">
+    <tag k="amenity" v="cinema"/>
+    <tag k="name" v="Satyricon PDX"/>
+  </node>
+  <node id="664314273" lat="45.5243715" lon="-122.6766485">
+    <tag k="addr:housenumber" v="133"/>
+    <tag k="addr:street" v="Southwest 6th Avenue"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Sisters of the Road"/>
+  </node>
+  <node id="664314287" lat="45.5391972" lon="-122.6744500">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Gotham Tavern"/>
+  </node>
+  <node id="664314330" lat="45.5297951" lon="-122.6638887">
+    <tag k="amenity" v="bicycle_parking"/>
+  </node>
+  <node id="664314337" lat="45.5345909" lon="-122.6531083">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="grill"/>
+    <tag k="name" v="Newport Seafood Grill"/>
+  </node>
+  <node id="669128428" lat="45.5218544" lon="-122.6763978">
+    <tag k="amenity" v="cafe"/>
+    <tag k="operator" v="Starbucks"/>
+  </node>
+  <node id="669128430" lat="45.5266963" lon="-122.6776841">
+    <tag k="amenity" v="post_box"/>
+  </node>
+  <node id="671060126" lat="45.5212662" lon="-122.6718300">
+    <tag k="amenity" v="telephone"/>
+  </node>
+  <node id="677232465" lat="45.5281210" lon="-122.6764816">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="708297020" lat="45.5301767" lon="-122.6835942">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="mexican"/>
+    <tag k="name" v="Chipotle"/>
+  </node>
+  <node id="736003191" lat="45.5312399" lon="-122.6765998">
+    <tag k="amenity" v="post_box"/>
+    <tag k="operator" v="United States Postal Service"/>
+  </node>
+  <node id="797787717" lat="45.5226837" lon="-122.6752908">
+    <tag k="amenity" v="fountain"/>
+  </node>
+  <node id="810983831" lat="45.5265114" lon="-122.6749056">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Groove Suite"/>
+  </node>
+  <node id="818034314" lat="45.5221614" lon="-122.6846476">
+    <tag k="amenity" v="post_box"/>
+    <tag k="name" v="USPS"/>
+    <tag k="operator" v="USPS"/>
+  </node>
+  <node id="818034319" lat="45.5219974" lon="-122.6756833">
+    <tag k="amenity" v="post_box"/>
+    <tag k="name" v="USPS"/>
+    <tag k="operator" v="USPS"/>
+  </node>
+  <node id="839239723" lat="45.5302751" lon="-122.6599181">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="J Cafe"/>
+  </node>
+  <node id="847306264" lat="45.5203971" lon="-122.6794077">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="Red Coach"/>
+  </node>
+  <node id="891315831" lat="45.5226548" lon="-122.6568402">
+    <tag k="amenity" v="nightclub"/>
+    <tag k="name" v="Doug Fir"/>
+  </node>
+  <node id="891315834" lat="45.5226557" lon="-122.6584696">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="The Farm"/>
+  </node>
+  <node id="891315837" lat="45.5230037" lon="-122.6577804">
+    <tag k="amenity" v="post_box"/>
+    <tag k="name" v="USPS"/>
+    <tag k="operator" v="USPS"/>
+  </node>
+  <node id="891315840" lat="45.5228346" lon="-122.6578434">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Le Pigeon"/>
+  </node>
+  <node id="891315843" lat="45.5227986" lon="-122.6568474">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Doug Fir Lounge"/>
+    <tag k="url" v="http://www.dougfirlounge.com"/>
+  </node>
+  <node id="937462769" lat="45.5224096" lon="-122.6778140">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Saucebox"/>
+  </node>
+  <node id="937462770" lat="45.5225204" lon="-122.6781037">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Bailey's Taproom"/>
+    <tag k="website" v="http://www.baileystaproom.com/"/>
+    <tag k="wifi" v="free"/>
+  </node>
+  <node id="937462771" lat="45.5227647" lon="-122.6778113">
+    <tag k="amenity" v="bar"/>
+    <tag k="description" v="strip bar"/>
+    <tag k="name" v="Mary's Club"/>
+  </node>
+  <node id="937462773" lat="45.5273715" lon="-122.6764729">
+    <tag k="amenity" v="drinking_water"/>
+  </node>
+  <node id="937462774" lat="45.5253448" lon="-122.6772936">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Gilt Club"/>
+  </node>
+  <node id="937462775" lat="45.5253805" lon="-122.6776638">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Tiger Bar"/>
+  </node>
+  <node id="974984611" lat="45.5264362" lon="-122.6825076">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Whole Bowl"/>
+  </node>
+  <node id="1066962883" lat="45.5231891" lon="-122.6823138">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Mio Gelato"/>
+  </node>
+  <node id="1234799977" lat="45.5234917" lon="-122.6732110">
+    <tag k="addr:housenumber" v="18 NW 3rd Ave"/>
+    <tag k="addr:postcode" v="97209"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Tube"/>
+  </node>
+  <node id="1234800640" lat="45.5235672" lon="-122.6732169">
+    <tag k="addr:housenumber" v="20 NW 3rd Ave"/>
+    <tag k="addr:postcode" v="97209"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Yes and No"/>
+  </node>
+  <node id="1306161310" lat="45.5286287" lon="-122.6762666">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Wilf's Restaurant"/>
+  </node>
+  <node id="1374366235" lat="45.5239382" lon="-122.6758279">
+    <tag k="amenity" v="pub"/>
+    <tag k="leisure" v="video_arcade"/>
+    <tag k="name" v="Ground Kontrol Arcade"/>
+    <tag k="website" v="http://groundkontrol.com/"/>
+  </node>
+  <node id="1378950501" lat="45.5266490" lon="-122.6835207">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="asian"/>
+    <tag k="name" v="Trader Vics"/>
+  </node>
+  <node id="1424642116" lat="45.5308474" lon="-122.6842742">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Sisters Coffee Company"/>
+  </node>
+  <node id="1468688328" lat="45.5215660" lon="-122.6727650">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="name" v="Pedal Bike Tours And Rentals"/>
+    <tag k="phone" v="5032432453"/>
+    <tag k="website" v="pedalbiketours.com"/>
+  </node>
+  <node id="1558920092" lat="45.5264277" lon="-122.6814037">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="vietnamese"/>
+    <tag k="name" v="Silk"/>
+  </node>
+  <node id="1558920094" lat="45.5313883" lon="-122.6826563">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Metrovino"/>
+  </node>
+  <node id="1572093727" lat="45.5215244" lon="-122.6811569">
+    <tag k="addr:housenumber" v="424"/>
+    <tag k="addr:street" v="Southwest 10th Avenue"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="The Black Rooster Café"/>
+  </node>
+  <node id="1585329752" lat="45.5226950" lon="-122.6781301">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Tugboat Brewing Company"/>
+    <tag k="website" v="http://www.d2m.com/Tugwebsite/"/>
+  </node>
+  <node id="1686720548" lat="45.5295189" lon="-122.6811723">
+    <tag k="amenity" v="bank"/>
+    <tag k="name" v="Banner Bank"/>
+  </node>
+  <node id="1687720172" lat="45.5222368" lon="-122.6812847">
+    <tag k="amenity" v="cinema"/>
+    <tag k="name" v="Living Room Theatres"/>
+  </node>
+  <node id="1687765788" lat="45.5287313" lon="-122.6821782">
+    <tag k="amenity" v="toilets"/>
+    <tag k="name" v="The Portland Loo"/>
+  </node>
+  <node id="1703213410" lat="45.5204629" lon="-122.6806626">
+    <tag k="amenity" v="post_box"/>
+    <tag k="operator" v="United States Postal Service"/>
+  </node>
+  <node id="1704927312" lat="45.5290808" lon="-122.6817909">
+    <tag k="amenity" v="fountain"/>
+  </node>
+  <node id="1713162580" lat="45.5328856" lon="-122.6679729">
+    <tag k="amenity" v="bench"/>
+  </node>
+  <node id="1713162586" lat="45.5328877" lon="-122.6681086">
+    <tag k="amenity" v="bench"/>
+  </node>
+  <node id="1713162617" lat="45.5329051" lon="-122.6681123">
+    <tag k="amenity" v="bench"/>
+  </node>
+  <node id="1713162753" lat="45.5329701" lon="-122.6684444">
+    <tag k="amenity" v="shelter"/>
+  </node>
+  <node id="1811986406" lat="45.5230629" lon="-122.6543240">
+    <tag k="addr:housename" v="Burnside Rocket Building"/>
+    <tag k="addr:housenumber" v="1111"/>
+    <tag k="addr:postcode" v="97201"/>
+    <tag k="addr:street" v="East Burnside"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Noble Rot"/>
+    <tag k="website" v="http://www.noblerotpdx.com/"/>
+  </node>
+  <node id="1860629068" lat="45.5339438" lon="-122.6563190">
+    <tag k="amenity" v="atm"/>
+    <tag k="description" v="Drive-up teller"/>
+    <tag k="operator" v="Bank of the West"/>
+  </node>
+  <node id="1947887413" lat="45.5266920" lon="-122.6614699">
+    <tag k="addr:housenumber" v="500"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Spirit of '77"/>
+  </node>
+  <node id="1947887414" lat="45.5224714" lon="-122.6727057">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Valentine's"/>
+  </node>
+  <node id="1947933644" lat="45.5227314" lon="-122.6523751">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Old Wives' Tales"/>
+  </node>
+  <node id="1947949881" lat="45.5227756" lon="-122.6589606">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="B-Side"/>
+  </node>
+  <node id="1947949884" lat="45.5227774" lon="-122.6590827">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="name" v="Sizzle Pie"/>
+  </node>
+  <node id="1947949896" lat="45.5227737" lon="-122.6595358">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Rontoms"/>
+  </node>
+  <node id="1957365016" lat="45.5220045" lon="-122.6814201">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Clyde Common"/>
+  </node>
+  <node id="1957365020" lat="45.5221310" lon="-122.6819056">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Kenny and Zuke's Delicatessen"/>
+    <tag k="shop" v="deli"/>
+  </node>
+  <node id="1957365037" lat="45.5226781" lon="-122.6779689">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="mexican"/>
+    <tag k="name" v="Santeria"/>
+  </node>
+  <node id="1957365047" lat="45.5220899" lon="-122.6817287">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Stumptown"/>
+  </node>
+  <node id="1959281935" lat="45.5219596" lon="-122.6812305">
+    <tag k="amenity" v="event_space"/>
+    <tag k="name" v="The Cleaners"/>
+    <tag k="operator" v="Ace Hotel"/>
+  </node>
+  <node id="1959282098" lat="45.5245671" lon="-122.6821062">
+    <tag k="amenity" v="bicycle_parking"/>
+  </node>
+  <node id="1963188104" lat="45.5233261" lon="-122.6584695">
+    <tag k="addr:city" v="Portland"/>
+    <tag k="addr:housenumber" v="701"/>
+    <tag k="addr:postcode" v="97214"/>
+    <tag k="addr:street" v="East Burnside Street"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="craft" v="brewery"/>
+    <tag k="microbrewery" v="yes"/>
+    <tag k="name" v="Burnside Brewing Co."/>
+    <tag k="phone" v="(503) 946-8151"/>
+    <tag k="phone:brewery" v="(503) 208-3476"/>
+    <tag k="phone:pub" v="(503) 946-8151"/>
+    <tag k="source" v="survey"/>
+    <tag k="website" v="http://www.burnsidebrewco.com‎"/>
+  </node>
+  <node id="1963211262" lat="45.5223254" lon="-122.6602647">
+    <tag k="addr:city" v="Portland"/>
+    <tag k="addr:housenumber" v="537"/>
+    <tag k="addr:street" v="SE Ash Street"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="description" v="Breakfast and Lunch"/>
+    <tag k="name" v="J &amp; M Cafe"/>
+    <tag k="note" v="check opening hours, supposedly closes every day at 2pm, When does it open?"/>
+    <tag k="opening_hours" v="Mo-Su -14:00"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="1964043591" lat="45.5225302" lon="-122.6819148">
+    <tag k="amenity" v="nightclub"/>
+    <tag k="description" v="Gay nightclub"/>
+    <tag k="name" v="Boxx"/>
+    <tag k="source" v="Pushpin for iOS"/>
+  </node>
+  <node id="1967398070" lat="45.5298816" lon="-122.6631497">
+    <tag k="amenity" v="bicycle_parking"/>
+  </node>
+  <node id="1968955543" lat="45.5266816" lon="-122.6803585">
+    <tag k="amenity" v="fire_hydrant"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1968955546" lat="45.5266753" lon="-122.6810296">
+    <tag k="amenity" v="fire_hydrant"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1968955548" lat="45.5265776" lon="-122.6812951">
+    <tag k="amenity" v="fire_hydrant"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1968955549" lat="45.5265729" lon="-122.6813082">
+    <tag k="amenity" v="post_box"/>
+  </node>
+  <node id="1968955563" lat="45.5265439" lon="-122.6823156">
+    <tag k="amenity" v="fire_hydrant"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1968955564" lat="45.5265885" lon="-122.6824200">
+    <tag k="amenity" v="fire_hydrant"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1968955568" lat="45.5258745" lon="-122.6821643">
+    <tag k="amenity" v="fire_hydrant"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1968955573" lat="45.5252096" lon="-122.6820148">
+    <tag k="amenity" v="fire_hydrant"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1968955599" lat="45.5245920" lon="-122.6812003">
+    <tag k="amenity" v="fire_hydrant"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1968955600" lat="45.5231011" lon="-122.6811570">
+    <tag k="amenity" v="fire_hydrant"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1969000025" lat="45.5235825" lon="-122.6812742">
+    <tag k="amenity" v="fire_hydrant"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1969000032" lat="45.5241747" lon="-122.6812987">
+    <tag k="addr:housenumber" v="138"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="sushi land"/>
+  </node>
+  <node id="1969000039" lat="45.5243484" lon="-122.6812102">
+    <tag k="amenity" v="fire_hydrant"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1969000049" lat="45.5250270" lon="-122.6812025">
+    <tag k="amenity" v="fire_hydrant"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1969000055" lat="45.5250579" lon="-122.6821907">
+    <tag k="amenity" v="fire_hydrant"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+
+</osm>
