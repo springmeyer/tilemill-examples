@@ -43,15 +43,16 @@ def random_geojson():
     feature_template = '''
       { "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [%(lon)s,%(lat)s]},
-      "properties": {"feat_id": %(feat_id)d}
+      "properties": {"feat_id": %(feat_id)d,"size":%(size)d}
       }
     '''
     features = ''
-    limit = 10
+    limit = 20
     for feat_id in xrange(0,limit):
         # random points roughly within oregon
         lat = random.randrange(40,46)
         lon = random.randrange(-130,-115)
+        size = random.randrange(2,30)
         features += feature_template % locals()
         if feat_id < limit-1:
             features += ','
