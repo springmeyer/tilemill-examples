@@ -1,7 +1,20 @@
 # tilemill-examples
 
 This is a set of TileMill projects that demonstrate various types of
-functionality of TileMill. The examples are self-contained and should work offline.
+functionality and hacks in TileMill. The examples are mostly self-contained
+and should work offline. See the Speakers Notes below for project-specific
+setup that might be needed in a few places.
+
+## Caveats
+
+These projects are partially for demos and partially for testing features that
+are quite tricky to pull off (e.g. not yet optimal in TileMill) and may change soon.
+
+So, DO NOT treat any of these examples as best practices. Treat them as evolving
+possibilities only.
+
+
+## Usage
 
 You can either download this directory and point TileMill's documents setting at it.
 
@@ -17,6 +30,16 @@ Or you can use git to set the projects up within an existing documents directory
 
 ## speakers notes
 
-Designing Fast and Beautiful Web Maps with TileMill MapBox
-Dane Springmeyer, Development Seed
-TileMill, an open source design studio, lets you design fast and beautiful interactive maps using your own data and share them on the web and mobile devices. This session will walk through how to use TileMill to take a spreadsheet of data and a shapefile and turn it into an interactive web map that can quickly be shared online. We'll show how you can use TileMill to make all sorts of maps from proportional symbol (http://nigeria.mixmarket.org/) to choropleth (http://www.npr.org/censusmap) to full featured street-level base maps (http://mapbox.com/maps/).
+Some project directories contain setup scripts (e.g. `convert.py`) and other notes (e.g. `notes.md`)
+
+Some projects require setup:
+
+1. `dynamic-http` requires running a local python server in order to support data refresh:
+
+    python project/dynamic-http/server.py
+
+1. `sql-on-the-fly` requires creating a postgres db and importing a shapefile:
+
+    cd ./sql-on-the-fly
+    createdb -T template_postgis states
+    shp2pgsql -g geom -s 4326 ./data/us_states_wgs84.shp states | psql states
