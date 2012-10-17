@@ -36,10 +36,14 @@ Some projects require setup:
 
 1. `dynamic-http` requires running a local python server in order to support data refresh:
 
-    python project/dynamic-http/server.py
+```sh
+python project/dynamic-http/server.py
+```
 
 1. `sql-on-the-fly` requires creating a postgres db and importing a shapefile:
 
-    cd ./sql-on-the-fly
-    createdb -T template_postgis states
-    shp2pgsql -g geom -s 4326 ./data/us_states_wgs84.shp states | psql states
+```sh
+cd ./sql-on-the-fly
+createdb -T template_postgis states
+shp2pgsql -g geom -s 4326 ./data/us_states_wgs84.shp states | psql states
+```
