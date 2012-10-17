@@ -21,7 +21,6 @@ Map {
   marker-ignore-placement:true;
   ::over {
     marker-file: url('./octocat.svg');
-    //marker-file: url('https://raw.github.com/gist/1007813/1f883261b243111b00d932d6033a8b538b1ecae7/octocat.svg');
     marker-opacity:.8;
     marker-comp-op:difference;
   }
