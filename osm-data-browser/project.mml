@@ -13,8 +13,8 @@
   "format": "png",
   "interactivity": {
     "layer": "osm",
-    "template_teaser": "Name: <strong>{{{name}}}</strong><br>\nOSM ID: <strong>{{{osm_id}}}</strong> <br>\nLink to: <a href=\"http://www.openstreetmap.org/browse/way/{{{osm_id}}}\">way</a> | <a href=\"http://www.openstreetmap.org/browse/node/{{{osm_id}}}\">node</a>\n",
-    "template_full": "Name: <strong>{{{name}}}</strong><br>\nOSM ID: <strong>{{{osm_id}}}</strong> <br>\nLink to: <a href=\"http://www.openstreetmap.org/browse/way/{{{osm_id}}}\">way</a> | <a href=\"http://www.openstreetmap.org/browse/node/{{{osm_id}}}\">node</a>\n",
+    "template_teaser": "Name: <strong>{{{name}}}</strong><br>\nOSM ID: <strong>{{{osm_id}}}</strong> <br>\nLink to: <a style='color:blue' href=\"http://www.openstreetmap.org/browse/way/{{{osm_id}}}\">way</a> | <a style='color:blue' href=\"http://www.openstreetmap.org/browse/node/{{{osm_id}}}\">node</a>\n",
+    "template_full": "Name: <strong>{{{name}}}</strong><br>\nOSM ID: <strong>{{{osm_id}}}</strong> <br>\nLink to: <a style='color:red' href=\"http://www.openstreetmap.org/browse/way/{{{osm_id}}}\">way</a> | <a style='color:red' href=\"http://www.openstreetmap.org/browse/node/{{{osm_id}}}\">node</a>\n",
     "template_location": "",
     "fields": [
       "name",
