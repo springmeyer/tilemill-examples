@@ -39,7 +39,7 @@
       "id": "glaciers",
       "class": "",
       "Datasource": {
-        "file": "osm.csv"
+        "file": "./layers/osm.csv"
       },
       "srs-name": "autodetect",
       "srs": "",
