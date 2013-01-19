@@ -20,14 +20,24 @@ Map {
   [boolean="true"] {
      marker-fill:@color_true; 
      [desaturate="true"] {
-         marker-fill:desaturate(@color_true,100%);
+         marker-fill:desaturate(@color_true,50%);
      }
   }
   [boolean="false"] {
      marker-fill:green; 
      marker-fill:@color_false; 
      [desaturate="true"] {
-         marker-fill:desaturate(@color_false,100%);
+         marker-fill:desaturate(@color_false,50%);
      }
+  }
+  // this must be after other rules
+  // to ensure it overrides them
+  [catch_all="true"] {
+    [boolean="true"] {
+        marker-fill:desaturate(@color_true,100%);
+    }
+    [boolean="false"] {
+        marker-fill:desaturate(@color_false,100%);
+    }
   }
 }
