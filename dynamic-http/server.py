@@ -25,7 +25,9 @@ def print_url(options):
     remote = "To access remotely view: http://%s" % socket.getfqdn()
     if not options.port == 80:
         remote += ":%s" % options.port
-    remote += "\nor view: http://%s" % socket.gethostbyname(socket.gethostname())
+    try:
+        remote += "\nor view: http://%s" % socket.gethostbyname(socket.gethostname())
+    except: pass # breaks on some wifi networks
     if not options.port == 80:
         remote += ":%s" % options.port
     sys.stderr.write('%s\n' % remote)
