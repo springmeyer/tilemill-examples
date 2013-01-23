@@ -23,10 +23,10 @@ Map {
   shield-file:url("ellipses.svg");
   shield-size:12;
   shield-min-distance:1;
-  // uncomment this in >= TileMill 0.10.2
-  // and your text will then appear nicely to the
-  // left of the svg ellipse
-  //shield-unlock-image:true;
+  // Set this to true and your text will then
+  // appear nicely to the right of the svg ellipse
+  // NOTE: only works in >= TileMill 0.10.2
+  shield-unlock-image:true;
 }
 
 
