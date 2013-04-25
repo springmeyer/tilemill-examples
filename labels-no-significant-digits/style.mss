@@ -16,11 +16,12 @@ Map {
   marker-width: 5;
   ::labels {
       text-dx:10;
+      text-size:12;
       // uncomment to show raw value
-      // text-name:[value];
+      //text-name:[value];
       // uncomment to show only number before decimal
-      text-name:"[value].replace('(.*)(\..*)','$1')";
-      //text-name:"[value].replace('(.*)(\..*)','before decimal: $1\nafter decimal:$2')";
+      //text-name:"[value].replace('(.*)(\..*)','$1')";
+      text-name:"[value].replace('(.*)(\..*)','before decimal: $1\nafter decimal:$2')";
       text-face-name:"DejaVu Sans Book";
   }
 }
