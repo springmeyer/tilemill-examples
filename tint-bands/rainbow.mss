@@ -1,16 +1,3 @@
-@water: #ddeeff;
-@land: #ffffdd;
-@line: #226688;
-
-/***********************************************************************
-
-This file is responsible for assigning colors to each country. Color
-assignment is mostly manual. Not taking advantage of Natural Earth's
-'MAP_COLOR' field because it did not exist when I started, and at any
-rate I want a smaller palette :)
-
-***********************************************************************/
-
 @white: #F0F8FF; /* blue-tinted, for Antarctica */
 @red: #fdaf6b;
 @orange: #fdc663;
@@ -22,8 +9,7 @@ rate I want a smaller palette :)
 @pink: #f3c1d3;
 @f00: #f00;
 
-/* Coastlines */
-
+@line: #226688;
 #countries::land-glow-inner[zoom>=0] { 
   line-color:@line;
   line-opacity:0.5;
