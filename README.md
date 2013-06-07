@@ -1,9 +1,8 @@
 # tilemill-examples
 
-This is a set of TileMill projects that demonstrate various types of
-functionality and hacks in TileMill. The examples are mostly self-contained
-and should work offline. See the Speakers Notes below for project-specific
-setup that might be needed in a few places.
+This is a set of TileMill projects that demonstrate various types of advanced
+functionality and fun hacks in TileMill. The examples are mostly self-contained
+and should mostly work offline. See the Speakers Notes below for project-specific setup that might be needed in a few places.
 
 
 ## Usage
