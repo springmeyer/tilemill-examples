@@ -5,14 +5,6 @@ functionality and hacks in TileMill. The examples are mostly self-contained
 and should work offline. See the Speakers Notes below for project-specific
 setup that might be needed in a few places.
 
-## Caveats
-
-These projects are partially for demos and partially for testing features that
-are quite tricky to pull off (e.g. not yet optimal in TileMill) and may change soon.
-
-So, DO NOT treat any of these examples as best practices. Treat them as evolving
-possibilities only.
-
 
 ## Usage
 
@@ -28,11 +20,13 @@ Or you can use git to set the projects up within an existing documents directory
     git pull origin master
 
 
-## speakers notes
+## Speakers notes
 
 Some project directories contain setup scripts (e.g. `convert.py`) and other notes (e.g. `notes.md`)
 
-Some projects require setup:
+If you encounter a project that does not load and is missing a README with setup instructions, then feel free to create an [issue](https://github.com/springmeyer/tilemill-examples/issues) and I will add some details.
+
+These projects specifically require setup:
 
 1. `dynamic-http` requires running a local python server in order to support data refresh:
 
