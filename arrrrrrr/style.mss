@@ -11,7 +11,8 @@ Map {
 
 #frigate {
   marker-file:url(img/ship_frigate_200.png);
-  marker-geometry-transform:translate(4,0);
+  // only available in TileMill >= 0.10.12
+  //marker-geometry-transform:translate(4,0);
   marker-comp-op:overlay;
 }
 
